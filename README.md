@@ -79,8 +79,13 @@ fundamental value, and partially reverse once selling pressure passes.
 ## Repo Structure
 mean-reversion-research/
 ├── README.md
+
 ├── mean_reversion_analysis.ipynb
+
 └── data/
+
 ├── RTX.csv
+
 ├── LMT.csv
+
 └── NOC.csv
